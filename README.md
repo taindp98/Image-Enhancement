@@ -1,8 +1,5 @@
-<h1>
-    <p align="center">
-        The Implementation of Classical Methods for Image Enhancement
-    </p>
-</h1>
+# The Implementation of Classical Methods for Image Enhancement
+![](./docs/method.png)
 
 ## Table of Contents
 
