@@ -9,4 +9,5 @@ fi
 export WORKDIR=$(pwd)
 # Add the working directory to the PYTHONPATH
 export PYTHONPATH="$WORKDIR:$PYTHONPATH"
-python image_enhancement/denoise.py
+# python image_enhancement/denoise.py
+python image_enhancement/dehaze.py
