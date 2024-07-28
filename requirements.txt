@@ -3,4 +3,9 @@ flake8
 isort
 pip
 python-dotenv
--e .
+numpy==1.21.2
+opencv-python==4.10.0.84
+Pillow==8.4.0
+PyWavelets==1.4.1
+tqdm==4.62.3
+matplotlib==3.8.4
